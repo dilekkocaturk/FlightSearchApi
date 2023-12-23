@@ -1,0 +1,16 @@
+[
+  {
+    "departureAirport": "IST",
+    "arrivalAirport": "JFK",
+    "departureDateTime": "2023-12-28T12:00:00",
+    "arrivalDateTime": "2023-12-29T15:30:00",
+    "price": 500.0
+  },
+  {
+    "departureAirport": "JFK",
+    "arrivalAirport": "IST",
+    "departureDateTime": "2023-12-30T10:00:00",
+    "arrivalDateTime": "2023-12-31T13:45:00",
+    "price": 550.0
+  }
+]
